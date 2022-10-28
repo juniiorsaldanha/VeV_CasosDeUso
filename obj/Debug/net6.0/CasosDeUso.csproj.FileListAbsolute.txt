@@ -1,0 +1,15 @@
+C:\Users\salda\OneDrive\Área de Trabalho\casoss de uso\CasosDeUso\bin\Debug\net6.0\CasosDeUso.exe
+C:\Users\salda\OneDrive\Área de Trabalho\casoss de uso\CasosDeUso\bin\Debug\net6.0\CasosDeUso.deps.json
+C:\Users\salda\OneDrive\Área de Trabalho\casoss de uso\CasosDeUso\bin\Debug\net6.0\CasosDeUso.runtimeconfig.json
+C:\Users\salda\OneDrive\Área de Trabalho\casoss de uso\CasosDeUso\bin\Debug\net6.0\CasosDeUso.dll
+C:\Users\salda\OneDrive\Área de Trabalho\casoss de uso\CasosDeUso\bin\Debug\net6.0\CasosDeUso.pdb
+C:\Users\salda\OneDrive\Área de Trabalho\casoss de uso\CasosDeUso\obj\Debug\net6.0\CasosDeUso.csproj.AssemblyReference.cache
+C:\Users\salda\OneDrive\Área de Trabalho\casoss de uso\CasosDeUso\obj\Debug\net6.0\CasosDeUso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salda\OneDrive\Área de Trabalho\casoss de uso\CasosDeUso\obj\Debug\net6.0\CasosDeUso.AssemblyInfoInputs.cache
+C:\Users\salda\OneDrive\Área de Trabalho\casoss de uso\CasosDeUso\obj\Debug\net6.0\CasosDeUso.AssemblyInfo.cs
+C:\Users\salda\OneDrive\Área de Trabalho\casoss de uso\CasosDeUso\obj\Debug\net6.0\CasosDeUso.csproj.CoreCompileInputs.cache
+C:\Users\salda\OneDrive\Área de Trabalho\casoss de uso\CasosDeUso\obj\Debug\net6.0\CasosDeUso.dll
+C:\Users\salda\OneDrive\Área de Trabalho\casoss de uso\CasosDeUso\obj\Debug\net6.0\refint\CasosDeUso.dll
+C:\Users\salda\OneDrive\Área de Trabalho\casoss de uso\CasosDeUso\obj\Debug\net6.0\CasosDeUso.pdb
+C:\Users\salda\OneDrive\Área de Trabalho\casoss de uso\CasosDeUso\obj\Debug\net6.0\CasosDeUso.genruntimeconfig.cache
+C:\Users\salda\OneDrive\Área de Trabalho\casoss de uso\CasosDeUso\obj\Debug\net6.0\ref\CasosDeUso.dll
