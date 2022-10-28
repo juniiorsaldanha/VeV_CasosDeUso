@@ -9,7 +9,7 @@ Trabalho da disciplina de verificação e validação
 ![image](https://user-images.githubusercontent.com/47793842/198701319-552451c9-4aba-4ddf-b1c7-39d4642c666a.png)
 
 # Fluxo Alternativo 2:
-![image](https://user-images.githubusercontent.com/47793842/198701330-da1787db-338d-4991-8476-2dde669f2d1a.png)
+![image](https://user-images.githubusercontent.com/47793842/198701540-43efa1ef-5b73-43c0-b154-b1f63e31614a.png)
 
 # Fluxo Excessão 2:
 
